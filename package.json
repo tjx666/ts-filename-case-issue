@@ -1,0 +1,16 @@
+{
+    "name": "ts-filename-case-issue",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "tsc --noEmit"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "typescript": "^5.1.3",
+        "unplugin-detect-duplicated-deps": "^0.1.3"
+    }
+}
